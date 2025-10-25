@@ -1,0 +1,44 @@
+{
+    "scenarios": [
+        {
+            "scene": "Căn Phòng Yên Bình",
+            "scenario": "A warm, peaceful, and cozy children's room. Minh, an 8th-grade student, is sitting at a wooden desk, focused on his homework. Sunlight streams softly through a window. Subtle details like a stack of books, a neat backpack, and a faint blurred background hinting at a kitchen or family activity add to the calm, homely atmosphere."
+        },
+        {
+            "scene": "Tin Nhắn Lạ Từ Người Quen",
+            "scenario": "Close-up shot of a smartphone screen displaying a Facebook message. The profile picture and name on the screen are almost identical to Minh's father's. The message bubble shows text like 'Minh ơi, bố có việc gấp cần con giúp!' (Minh, dad needs your help urgently!). Minh's hand is holding the phone, with his fingers slightly tensed, and his eyes (partially visible) show initial surprise and concern."
+        },
+        {
+            "scene": "Lời Kêu Cứu Khẩn Cấp",
+            "scenario": "A medium close-up of Minh's face, illuminated by the light of his phone screen. His expression is a mix of shock, fear, and profound worry. His eyes are wide, staring intensely at the screen, which is slightly visible, showing an urgent message asking for money transfer and explicitly stating 'tuyệt đối không được nói với mẹ nhé!' (absolutely don't tell mom!). His hands are clutched, conveying extreme anxiety."
+        },
+        {
+            "scene": "Nỗi Lo Và Quyết Định Vội Vàng",
+            "scenario": "Minh, a young boy, is seen standing up abruptly from his desk, a look of desperate urgency and fear on his face. He is reaching instinctively towards a small wallet or a money box on his shelf. The scene is slightly blurred to convey the speed and panic of his decision, with a focus on his determined, yet worried, expression."
+        },
+        {
+            "scene": "Tia Sáng Hồi Ức",
+            "scenario": "A split image or a dual-focus shot. On one side, Minh's hand is paused mid-air, just above his wallet/ATM card, his face still showing traces of worry. On the other side, or subtly overlaid, is a clear flashback image of a classroom. A kind, reassuring teacher is pointing to a whiteboard with 'Online Safety Tips' written on it, and young students are listening attentively, with a specific focus on the teacher's emphasizing facial expression."
+        },
+        {
+            "scene": "Bước Ngoặt Quyết Định",
+            "scenario": "Minh takes a deep, resolute breath. He has pulled his hand back from the wallet, now holding his smartphone with a new sense of calm determination. His expression has shifted from panic to thoughtful resolve, as he prepares to dial a number, having decided against the hasty action and choosing to verify."
+        },
+        {
+            "scene": "Cuộc Gọi Định Mệnh",
+            "scenario": "Minh is holding his phone to his ear, listening intently. His eyes are focused, and his expression gradually transforms from tentative worry to confusion, and then to a visible sigh of relief as he hears his father's normal, unsuspecting voice on the other end. The background is soft and slightly out of focus, highlighting Minh's emotional journey during the call."
+        },
+        {
+            "scene": "Sự Thật Được Phơi Bày",
+            "scenario": "Minh's face is now beaming with relief and understanding. He is still holding the phone, but his posture is relaxed, and a genuine smile has replaced the earlier fear. A warm, soft light illuminates his face, symbolizing clarity and the lifting of a heavy burden, as his dad's words of praise and reassurance resonate."
+        },
+        {
+            "scene": "Lời Dặn Từ Người Thân",
+            "scenario": "An evening scene in a cozy living room or at a dining table. Minh is sitting between his parents. His father is looking serious but reassuring, possibly showing the fake Facebook account on a tablet, explaining the dangers. His mother is gently stroking Minh's head, her expression one of pride and love, reinforcing the lesson and security."
+        },
+        {
+            "scene": "Bài Học Vô Giá",
+            "scenario": "Minh is sitting peacefully at his desk or on a sofa, looking at his smartphone, but this time with a calm and wise expression. The phone is simply an object, no longer a source of anxiety. His face reflects newfound maturity and understanding. The room is softly lit, emphasizing a sense of safety and a priceless lesson learned."
+        }
+    ]
+}

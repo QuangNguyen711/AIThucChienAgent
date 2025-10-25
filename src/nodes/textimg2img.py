@@ -70,10 +70,7 @@ def text_img2img(state: State, config: RunnableConfig) -> State:
           
            image_data = base64.b64decode(b64_data)
           
-           if not os.path.exists("output/image"):
-               os.makedirs("output/image")
-          
-           save_path = f"output/image/ti2i_multi_{int(time.time())}_{i+1}.png"
+           save_path = state.get("ti2i_output_path")
            with open(save_path, 'wb') as f:
                f.write(image_data)
            print(f"Ảnh kết quả được lưu tại: {save_path}")

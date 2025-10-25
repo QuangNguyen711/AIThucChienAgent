@@ -1,0 +1,44 @@
+{
+    "scenarios": [
+        {
+            "scene": "Căn Phòng Yên Bình",
+            "scenario": "Minh, một cậu học sinh lớp 8 chăm ngoan, đang ngồi học bài trong căn phòng quen thuộc. Tiếng mẹ chuẩn bị bữa tối vọng lên từ dưới bếp tạo nên một không khí ấm cúng, bình yên. Minh rất yêu quý và tin tưởng bố mẹ, đặc biệt là bố. Bố cậu thường xuyên đi công tác xa, nên việc liên lạc qua tin nhắn hay gọi điện là điều hết sức bình thường trong gia đình."
+        },
+        {
+            "scene": "Tin Nhắn Lạ Từ Người Quen",
+            "scenario": "Đột nhiên, chiếc điện thoại của Minh rung lên bần bật. Cậu mở ứng dụng Facebook và thấy một tin nhắn mới. Tên tài khoản hiển thị và ảnh đại diện gần như giống hệt tài khoản của bố cậu, khiến Minh không mảy may nghi ngờ. Tin nhắn có vẻ gấp gáp và đầy lo lắng: 'Minh ơi, bố có việc gấp cần con giúp!'"
+        },
+        {
+            "scene": "Lời Kêu Cứu Khẩn Cấp",
+            "scenario": "Minh vội vàng mở tin nhắn. Nội dung hiển thị khiến trái tim cậu đập thình thịch: 'Bố đang gặp chút rắc rối lớn, cần chuyển gấp một khoản tiền vào số tài khoản này [số tài khoản]. Rất quan trọng, tuyệt đối không được nói với mẹ nhé! Bố sẽ giải thích sau.' Dòng chữ 'tuyệt đối không được nói với mẹ' khiến Minh vô cùng hoang mang và lo lắng tột độ."
+        },
+        {
+            "scene": "Nỗi Lo Và Quyết Định Vội Vàng",
+            "scenario": "Cảm giác lo sợ cho bố choán lấy tâm trí Minh. Bố mình mà gặp chuyện gấp như vậy sao? Cậu bắt đầu nghĩ đến việc mình có bao nhiêu tiền tiết kiệm, rồi định chạy ra cây ATM gần nhà để làm theo yêu cầu. Sự tin tưởng tuyệt đối vào bố và nỗi sợ hãi về 'rắc rối lớn' đã đẩy Minh đến bờ vực của một quyết định sai lầm, gần như hành động theo bản năng."
+        },
+        {
+            "scene": "Tia Sáng Hồi Ức",
+            "scenario": "Khi tay Minh vừa vươn tới chiếc ví nhỏ đựng ít tiền lì xì và thẻ ATM của mình, một đoạn kí ức bất chợt hiện về rõ mồn một trong đầu cậu. Đó là buổi học về an toàn mạng của thầy giáo chủ nhiệm. Lời dặn của thầy vang vọng: 'Các em phải luôn cẩn thận với những tin nhắn yêu cầu chuyển tiền, đặc biệt là giả danh người thân. Luôn luôn xác minh trực tiếp, các em nhé!'"
+        },
+        {
+            "scene": "Bước Ngoặt Quyết Định",
+            "scenario": "Lời thầy giáo như một gáo nước lạnh tạt vào sự hoảng loạn của Minh. Cậu chợt nhận ra điều bất thường: bố ít khi dùng Facebook để nhắn tin những việc quan trọng, và bố sẽ không bao giờ yêu cầu cậu giấu mẹ bất cứ điều gì. Minh hít một hơi thật sâu, gạt bỏ ý định nhắn tin lại hoặc làm theo, quyết định sẽ gọi điện thoại trực tiếp cho số điện thoại chính thức của bố."
+        },
+        {
+            "scene": "Cuộc Gọi Định Mệnh",
+            "scenario": "Minh bấm số bố. Chuông reo vài hồi rồi có tiếng bố cất lên: 'Alo, Minh hả con? Có chuyện gì không?' Giọng bố bình thường, không hề có vẻ gì là đang gặp 'rắc rối lớn' hay đang hoảng loạn. Minh dè dặt hỏi về tin nhắn Facebook. Đầu dây bên kia, bố Minh tỏ vẻ ngạc nhiên: 'Bố có nhắn gì đâu? Bố đang ở công ty mà!'"
+        },
+        {
+            "scene": "Sự Thật Được Phơi Bày",
+            "scenario": "Minh kể lại toàn bộ nội dung tin nhắn đáng ngờ. Bố Minh lập tức nhận ra đây là một chiêu trò lừa đảo giả danh người thân. Ông trấn an Minh, khen ngợi cậu đã rất bình tĩnh và thông minh khi quyết định xác minh thông tin thay vì vội vàng làm theo. Cảm giác nhẹ nhõm lan tỏa khắp cơ thể Minh, thay thế hoàn toàn nỗi sợ hãi ban nãy."
+        },
+        {
+            "scene": "Lời Dặn Từ Người Thân",
+            "scenario": "Tối đó, bố về nhà, câu chuyện về tin nhắn lừa đảo được kể lại cho mẹ nghe. Bố mẹ đã cùng Minh báo cáo tài khoản giả mạo đó lên Facebook và dặn dò cậu kỹ hơn về các mối nguy hiểm trên mạng. 'Con đã rất thông minh khi nhớ lời thầy cô và gọi điện cho bố,' mẹ Minh nói, xoa đầu cậu đầy tự hào."
+        },
+        {
+            "scene": "Bài Học Vô Giá",
+            "scenario": "Minh nhìn chiếc điện thoại trên bàn, lòng nhẹ nhõm và tràn đầy sự khôn ngoan hơn. Cậu hiểu rằng 'mật mã của bố' không phải là lời yêu cầu bí mật, mà là sự tin tưởng và những nguyên tắc an toàn mà bố mẹ và thầy cô đã luôn dạy dỗ. Từ nay, Minh sẽ luôn ghi nhớ: Mọi yêu cầu chuyển tiền hay thông tin quan trọng đều phải được xác minh trực tiếp qua kênh liên lạc chính thức, không bao giờ tin vào những tin nhắn giả mạo."  
+        }
+    ]
+}
